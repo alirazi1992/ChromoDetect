@@ -1,5 +1,3 @@
-# ChromoDetect
-
 # ChromoDetect: Unraveling Genetic Mysteries with AI - Karyotype Abnormality Detection
 
 Welcome to the ChromoDetect project, "Unraveling Genetic Mysteries with AI - Karyotype Abnormality Detection." In this README, we will provide an overview of the project's phases, objectives, and methodologies. Our mission is to revolutionize the field of cytogenetics by harnessing the power of artificial intelligence to automate the detection of chromosomal abnormalities within karyotype images.
